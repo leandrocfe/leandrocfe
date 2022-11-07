@@ -32,7 +32,6 @@ Here are a few things I've picked up along my learning journey.
 ## 📫 Get in touch
 
 [![Mail](https://img.shields.io/badge/leandrocfe@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leandrocfe@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/+5516997249529-fff?style=for-the-badge&logo=whatsapp&logoColor=green)](https://wa.me/5516997249529)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/leandrocfe?label=Follow)](https://twitter.com/leandrocfe)
 [![Linkedin: oleandroferreira](https://img.shields.io/badge/-Leandro%20Costa%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oleandroferreira)](https://www.linkedin.com/in/oleandroferreira/)
