@@ -31,7 +31,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## ⚡  Plugins
 
-- [Filament Apex Charts]([https://filamentphp.com/blog/easy-way-to-create-a-filament-theme-in-minutes](https://filamentphp.com/plugins/apex-charts))
+- [Filament Apex Charts](https://filamentphp.com/plugins/apex-charts)
 
 ## 📫 Get in touch
 
