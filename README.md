@@ -29,6 +29,10 @@ Here are a few things I've picked up along my learning journey.
 - [Filament - Brazilian CPF Validation](https://filamentphp.com/tricks/brazilian-cpf-validation)
 - [Filament - Brazilian CNPJ Validation](https://filamentphp.com/tricks/brazilian-cnpj-validation)
 
+## ⚡  Plugins
+
+- [Filament Apex Charts]([https://filamentphp.com/blog/easy-way-to-create-a-filament-theme-in-minutes](https://filamentphp.com/plugins/apex-charts))
+
 ## 📫 Get in touch
 
 [![Mail](https://img.shields.io/badge/leandrocfe@gmail.com-fff?style=for-the-badge&logo=gmail&logoColor=red)](mailto:leandrocfe@gmail.com)
