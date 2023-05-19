@@ -23,6 +23,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📝  Latest Blog Posts
 
+- [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/blog/how-to-refresh-widgets-when-table-actions-are-fired)
 - [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/blog/easy-way-to-create-a-filament-theme-in-minutes)
 - [How to consume an external API with Filament Tables](https://filamentphp.com/blog/how-to-consume-an-external-api-with-filament-tables)
 - [TDD - How to write tests for Filament admin panels](https://filamentphp.com/blog/how-to-write-tests-for-filament-admin-panels)
@@ -32,6 +33,27 @@ Here are a few things I've picked up along my learning journey.
 ## ⚡  Plugins
 
 - [Filament Apex Charts](https://filamentphp.com/plugins/apex-charts)
+- [Brazilian Form Fields](https://filamentphp.com/plugins/brazilian-form-fields)
+
+## Lives
+
+### Beer and Code
+
+[Dominando o Filament, com Leandro Ferreira | Live Code #001](https://www.youtube.com/watch?v=B2HL572A3f0)
+
+[![Dominando o Filament, com Leandro Ferreira](https://raw.githubusercontent.com/leandrocfe/bac-checkout-example/master/screenshots/live.png)](https://www.youtube.com/watch?v=B2HL572A3f0)
+
+### Tio Jobs - Live 1
+
+[Desvendando o Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=qwojScrW_FU)
+
+[![Desvendando o Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live1.png)](https://www.youtube.com/watch?v=qwojScrW_FU)
+
+### Tio Jobs - Live 2
+
+[Avançando no Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=z5StCXCT7mQ)
+
+[![Avançando no Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live2.png)](https://www.youtube.com/watch?v=z5StCXCT7mQ)
 
 ## 📫 Get in touch
 
