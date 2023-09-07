@@ -23,17 +23,17 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📝  Latest Blog Posts
 
-- [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/blog/how-to-refresh-widgets-when-table-actions-are-fired)
-- [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/blog/easy-way-to-create-a-filament-theme-in-minutes)
-- [How to consume an external API with Filament Tables](https://filamentphp.com/blog/how-to-consume-an-external-api-with-filament-tables)
-- [TDD - How to write tests for Filament admin panels](https://filamentphp.com/blog/how-to-write-tests-for-filament-admin-panels)
-- [Filament - Brazilian CPF Validation](https://filamentphp.com/tricks/brazilian-cpf-validation)
-- [Filament - Brazilian CNPJ Validation](https://filamentphp.com/tricks/brazilian-cnpj-validation)
+- [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/community/how-to-refresh-widgets-when-table-actions-are-fired)
+- [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/community/easy-way-to-create-a-filament-theme-in-minutes)
+- [How to consume an external API with Filament Tables](https://filamentphp.com/community/how-to-consume-an-external-api-with-filament-tables)
+- [TDD - How to write tests for Filament admin panels](https://filamentphp.com/community/how-to-write-tests-for-filament-admin-panels)
+- [Filament - Brazilian CPF Validation](https://filamentphp.com/community/brazilian-cpfcnpj-field)
+- [Filament - Brazilian Phone number](https://filamentphp.com/community/brazilian-phone-number-field)
 
 ## ⚡  Plugins
 
-- [Filament Apex Charts](https://filamentphp.com/plugins/apex-charts)
-- [Brazilian Form Fields](https://filamentphp.com/plugins/brazilian-form-fields)
+- [Filament Apex Charts](https://filamentphp.com/plugins/leandrocfe-apex-charts)
+- [Brazilian Form Fields](https://filamentphp.com/plugins/leandrocfe-brazilian-form-fields)
 
 ## Lives
 
