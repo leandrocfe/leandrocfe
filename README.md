@@ -2,7 +2,7 @@
 
 PHP/Laravel developer from Brazil 🇧🇷
 
-Currently, I'm engaged in my role as a **member of the [Filament](https://filamentphp.com) support team**, where I provide assistance to users across [GitHub discussions](https://github.com/filamentphp/filament/discussions) and [Discord](https://discord.com/invite/filament) platforms. 
+Currently, I'm engaged in my role as a **member of the [Filament](https://filamentphp.com) core team**, where I provide assistance to users across [GitHub discussions](https://github.com/filamentphp/filament/discussions) and [Discord](https://discord.com/invite/filament) platforms. 
 
 Additionally, I'm the creator behind https://youtube.com/@filamentbr, a dedicated YouTube channel focused on all things Filament within the Brazilian community.
 
@@ -33,26 +33,6 @@ Here are a few things I've picked up along my learning journey.
 
 - [Filament Apex Charts](https://filamentphp.com/plugins/leandrocfe-apex-charts)
 - [Brazilian Form Fields](https://filamentphp.com/plugins/leandrocfe-brazilian-form-fields)
-
-## Lives
-
-### Beer and Code
-
-[Dominando o Filament, com Leandro Ferreira | Live Code #001](https://www.youtube.com/watch?v=B2HL572A3f0)
-
-[![Dominando o Filament, com Leandro Ferreira](https://raw.githubusercontent.com/leandrocfe/bac-checkout-example/master/screenshots/live.png)](https://www.youtube.com/watch?v=B2HL572A3f0)
-
-### Tio Jobs - Live 1
-
-[Desvendando o Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=qwojScrW_FU)
-
-[![Desvendando o Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live1.png)](https://www.youtube.com/watch?v=qwojScrW_FU)
-
-### Tio Jobs - Live 2
-
-[Avançando no Form Builder com Leandro Ferreira | Live](https://www.youtube.com/watch?v=z5StCXCT7mQ)
-
-[![Avançando no Form Builder com Leandro Ferreira | Live](https://raw.githubusercontent.com/leandrocfe/filament-form-builder/main/screenshots/live2.png)](https://www.youtube.com/watch?v=z5StCXCT7mQ)
 
 ## 📫 Get in touch
 
