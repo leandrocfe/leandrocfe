@@ -1,3 +1,4 @@
+![Leandro](https://pbs.twimg.com/profile_banners/2332393863/1722419331/1500x500)
 ### Hello, I'm Leandro ✌️
 
 PHP/Laravel developer from Brazil 🇧🇷
