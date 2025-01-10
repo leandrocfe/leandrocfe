@@ -23,6 +23,8 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📝  Latest Blog Posts
 
+- [Form Builder - Common errors to avoid](https://filamentphp.com/content/leandrocfe-form-builder-common-errors-to-avoid)
+- [Navigating Filament pages with previous and next buttons](https://filamentphp.com/content/leandrocfe-navigating-filament-pages-with-previous-and-next-buttons)
 - [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/community/how-to-refresh-widgets-when-table-actions-are-fired)
 - [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/community/easy-way-to-create-a-filament-theme-in-minutes)
 - [How to consume an external API with Filament Tables](https://filamentphp.com/community/how-to-consume-an-external-api-with-filament-tables)
