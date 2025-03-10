@@ -25,12 +25,12 @@ Here are a few things I've picked up along my learning journey.
 
 - [Form Builder - Common errors to avoid](https://filamentphp.com/content/leandrocfe-form-builder-common-errors-to-avoid)
 - [Navigating Filament pages with previous and next buttons](https://filamentphp.com/content/leandrocfe-navigating-filament-pages-with-previous-and-next-buttons)
-- [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/community/how-to-refresh-widgets-when-table-actions-are-fired)
-- [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/community/easy-way-to-create-a-filament-theme-in-minutes)
-- [How to consume an external API with Filament Tables](https://filamentphp.com/community/how-to-consume-an-external-api-with-filament-tables)
-- [TDD - How to write tests for Filament admin panels](https://filamentphp.com/community/how-to-write-tests-for-filament-admin-panels)
-- [Filament - Brazilian CPF Validation](https://filamentphp.com/community/brazilian-cpfcnpj-field)
-- [Filament - Brazilian Phone number](https://filamentphp.com/community/brazilian-phone-number-field)
+- [How to Refresh Widgets When Table Actions Are Fired](https://filamentphp.com/community/leandrocfe-how-to-refresh-widgets-when-table-actions-are-fired)
+- [Easy way to create a Filament Theme in minutes!](https://filamentphp.com/community/leandrocfe-easy-way-to-create-a-filament-theme-in-minutes)
+- [How to consume an external API with Filament Tables](https://filamentphp.com/community/leandrocfe-how-to-consume-an-external-api-with-filament-tables)
+- [TDD - How to write tests for Filament admin panels](https://filamentphp.com/community/leandrocfe-how-to-write-tests-for-filament-admin-panels)
+- [Filament - Brazilian CPF Validation](https://filamentphp.com/community/leandrocfe-brazilian-cpfcnpj-field)
+- [Filament - Brazilian Phone number](https://filamentphp.com/community/leandrocfe-brazilian-phone-number-field)
 
 ## ⚡  Plugins
 
